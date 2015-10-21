@@ -5,7 +5,7 @@
     <description>Portgall provides a new way of planning your DIY trip to Porto, giving you the possibility of freely combining creative and authentic travel experiences.</description>
     <author email="customercare@portgall.com" href="http://www.portgall.com">Portgall development</author>
 
-    <preference name="phonegap-version" value="5.2.0" />
+    <preference name="phonegap-version" value="cli-5.2.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
     
     <preference name="orientation" value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
